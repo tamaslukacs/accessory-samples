@@ -1,7 +1,8 @@
 repo_name: tamaslukacs/accessory-samples
 report_id: 9bc45dd08543975df8884c7e78518fb3
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-03T15:14:20+00:00'
+timestamp: '2024-01-05T08:29:01+00:00'
 requested_by: devunwired
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples
   detection_source: Repo Metadata
 - name: Processing
   description: A programming language for people who want to program images, animation,
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6474/pjs_400x400.jpg
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -54,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -64,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/tamaslukacs/accessory-samples/blob/master/AccessoryController/build.gradle
   detection_source: AccessoryController/build.gradle
   last_updated_by: Dave Smith
   last_updated_on: 2013-08-27 03:52:02.000000000 Z
